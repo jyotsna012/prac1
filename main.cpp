@@ -12,7 +12,7 @@ int *array = new int[size];
 
 cout << "Enter " << size << " items" << endl;
 for(int i = 0; i < size; i++){
-  cin >> array[i]
+  cin >> array[i];
 }
 
 cout << "You have entered: "  << endl;
