@@ -6,7 +6,7 @@ class Student{
   public:
   Student();
   int *age = new int;
-  char *name() = new char[80];
+  char *name = new char[80];
   float *gpa = new float;
   
   int* getAge();
