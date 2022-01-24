@@ -12,4 +12,5 @@ class Student{
   int* getAge();
   float* getGpa();
   char* getName();
+  setStudentDetails(char*,int,float);
 }
